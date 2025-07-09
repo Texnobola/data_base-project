@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRNr-HSWFjJ2hRGKgn1g1QQ4EC1o8ILXAsXtkAGk9pBI9keSbJR2vibGLogf-N_93_FAg&usqp=CAU",
+      "name": "dev",
+      "password": "password123",
+      "email": "texnobola2@gmail.com",
+      "phone": "+998880890793",
+      "city": "Almalyk",
+      "about": "I am a software developer with a passion for creating innovative solutions. I enjoy working on web development projects and exploring new technologies.",
+      "id": "a25d"
+    },
+    {
+      "id": "883b",
+      "name": "Aziz",
+      "password": "aziz123",
+      "email": "aziz@gmail.com",
+      "phone": "+7896661213",
+      "city": "Almalyk",
+      "about": "chills",
+      "image": "https://cdn-icons-png.flaticon.com/512/10169/10169718.png"
+    },
+    {
+      "id": "58eb",
+      "name": "aaaaa",
+      "password": "biwdovbaibdo",
+      "email": "aaa@gmail.com",
+      "phone": "+998999999999",
+      "city": "Almalyk",
+      "about": "absivbivabadi bivld",
+      "image": "https://cdn-icons-png.flaticon.com/512/2175/2175188.png"
+    },
+    {
+      "id": "1127",
+      "name": "",
+      "password": "",
+      "email": "suhrob@gmail.com",
+      "phone": "",
+      "city": "",
+      "about": "",
+      "image": ""
+    }
+  ]
+}
